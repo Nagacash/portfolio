@@ -179,41 +179,43 @@ const testimonials = [
   {
     testimonial:
       "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
+    name: "Gene",
+    designation: "CEO",
+    company: "Miracle Logistics",
     image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
+      "I've been fortunate to work with many talented web developers, but none have shown the same level of dedication and commitment to client success as Maurice. His passion for creating exceptional digital experiences is evident in every project he undertakes.",
+
+
+    name: "Moeski",
     designation: "COO",
-    company: "DEF Corp",
+    company: "Naga Mastering",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
+      "After Maurice optimized our business page, our home base traffic increased by 50%. We can't thank you enough!",
+    name: "Maria Wangho",
     designation: "CTO",
-    company: "456 Enterprises",
+    company: "Bass Studio",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
   },
 ];
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Miracle Logistics",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "As the designer behind this project, I focused on creating a clean, intuitive interface that effectively communicates our services and values. The homepage features a modern and visually appealing layout, with clear navigation and informative content. I've carefully selected imagery and typography to enhance the overall user experience and make it easy for visitors to find the information they need.",
     tags: [
       {
-        name: "react",
+        name: "html",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "javascript",
         color: "green-text-gradient",
       },
       {
@@ -222,44 +224,44 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://miracle-logistics.de/",
   },
   {
-    name: "Job IT",
+    name: "Mastering website",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Dive into the world of professional audio mastering with Mix & Master, a website I designed to showcase the services offered by a skilled mastering engineer. This project aimed to create a website that reflects the precision and professionalism of audio mastering. I focused on fostering trust and establishing a clear communication channel for potential clients",
     tags: [
       {
-        name: "react",
+        name: "next js",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "tailwind",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "javascript",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://naga-mastering.vercel.app/",
   },
   {
-    name: "Trip Guide",
+    name: "Cyber Security",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Discover Cyber Security Best Practices Explore a collection of cyber security examples and resources designed to help you protect your digital assets. Download the accompanying files to gain insights into control and compliance measures that can safeguard your organization from cyber threats. - Key Topics Covered: List of key topics covered in the files] Download Now: Link to download the files Protect Your Digital Future Today!,",
     tags: [
       {
-        name: "nextjs",
+        name: "risk report",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "goals",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "scopes",
         color: "pink-text-gradient",
       },
     ],
