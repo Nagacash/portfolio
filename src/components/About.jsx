@@ -47,9 +47,9 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a dedicated cybersecurity professional with a Degree in Cybersecurity (expected completion early next year).
+        I'm a Hamburg based dedicated cybersecurity professional with a Degree in Cybersecurity (expected completion early next year).
          My strong foundation in software development, particularly with TypeScript and JavaScript, 
-         coupled with expertise in frameworks like React, Node.js, and Three.js, positions me as a versatile asset in the cybersecurity field.
+         coupled with expertise in frameworks like React, Node.js, and Three.js, positions me as a versatile asset in the Cybersecurity field.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
